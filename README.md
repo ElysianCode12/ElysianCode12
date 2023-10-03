@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a software developer currently studying @SAIT
+🌱 I’m currently learning C# and Python libraries
+email me @ dexter_balino@yahoo.com
 
 <!--
 **DexterBalino/DexterBalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
