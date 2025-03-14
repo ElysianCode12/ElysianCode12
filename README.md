@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software developer currently studying @SAIT
+I am a software developer currently working with SanshTech
 🌱 I’m currently learning mobile development
 email me @ dexter_balino@yahoo.com
 
