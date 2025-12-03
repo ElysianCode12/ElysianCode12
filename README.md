@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software developer currently working with SanshTech
+I am a software developer
 🌱 I’m currently learning mobile development
 email me @ dexter_balino@yahoo.com
 
